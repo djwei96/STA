@@ -1,0 +1,11 @@
+{
+    "empty": "{}",
+    "instruct": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nComplete the following Python code without any tests or explanation\n{}\n\n### Response:",
+    "instruct-2": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\n{}\n\n### Response:",
+    "instruct-3": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nComplete the following Python code with explanation\n{}\n\n### Response:",
+    "instruct-4": "Instruction:\nComplete the following Python code with explanation\n{}\n\n### Response:",
+    "standard": "Complete the following Python code without any tests or explanation\n{}",
+    "standard-2": "Complete the following Python code then give detail explanation\n{}",
+    "write": "Write a python program to complete the following code:\n{}",
+    "code-llama": "Write a python code to solve the following coding problem that obeys the constraints and passes the example test cases. Please wrap your code answer using ```\n{}"
+}
