@@ -27,7 +27,7 @@ python sample_watermark/run_human_eval.py --cuda_visible_devices 0 --pass_k 10 -
 python sample_watermark_threshold/run_human_eval.py --cuda_visible_devices 0 --pass_k 10 --use_entropy_threshold True --entropy_threshold 1.05 --model_name_or_path 'codellama/CodeLlama-7b-Instruct-hf' --n_sample_per_token 1 --n_sample_per_token_above_entropy_threshold 16 --prompt_template_name 'instruct' --gamma 0.5 --max_new_tokens 512
 ```
 
-### Citing this work
+## Citing this work
 
 If you use this work, please cite:
 ```bibtex
